@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/src/**",
+                "${env:USERPROFILE}/Downloads/poco-v1.12.2-x86_64-posix-seh-rev0-8.1.0/**",
+                "${env:USERPROFILE}/Downloads/json-v3.11.2-x86_64-posix-seh-rev0-8.1.0/**",
+                "${env:USERPROFILE}/Downloads/pugixml-v1.12.1-x86_64-posix-seh-rev0-8.1.0/**",
+                "D:\\Code Projects\\cpp-libraries\\poco-v1.12.2-x86_64-posix-seh-rev0-8.1.0\\**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "compilerPath": "D:\\Softwares\\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\\mingw64\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "${default}"
+        }
+    ],
+    "version": 4
+}
